@@ -1,0 +1,10 @@
+.gradle
+.idea
+out/
+alfa.*
+/build/*
+/target/
+.mvn/
+node_modules
+/dist/bundle.js
+src/main/resources/static/built/
